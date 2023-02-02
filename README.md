@@ -1,3 +1,7 @@
 # Templates
 
-https://tahataha579.github.io/Templates/Template%20Thirteen/Template_Thirteen.html
+
+| Template One | [] |
+| :--: | :--: |
+| Template Two | List all new or modified files |
+| Template Three | Show file differences that haven't been staged |
