@@ -702,7 +702,7 @@ a {
 @media(max-width:991px) {
     .about .content {
         justify-content: center;
-        gap: 35px;
+/*         gap: 35px; */
     }
 
     .about .content .card {
@@ -712,8 +712,13 @@ a {
 
 @media(max-width:767px) {
     .about .content {
-       gap: 30px;
+/*        gap: 30px; */
 /*           grid-gap: 30px 15px; */
+                -webkit-column-gap: 20px;
+        -moz-column-gap: 20px;
+        -o-column-gap: 20px;
+        -ms-column-gap: 20px;
+        column-gap: 20px;
     }
 
     .about .content .card {
