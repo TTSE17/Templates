@@ -712,8 +712,8 @@ a {
 
 @media(max-width:767px) {
     .about .content {
-      /*  gap: 30px 15px;*/
-          grid-gap: 30px 15px;
+       gap: 30px;
+/*           grid-gap: 30px 15px; */
     }
 
     .about .content .card {
