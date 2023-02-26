@@ -719,6 +719,7 @@ a {
     .about .content .card {
         flex-basis: 48%;
         text-align: center;
+        margin-bottom:30px;
     }
 
     .about .content .card span {
