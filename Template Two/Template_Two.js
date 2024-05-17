@@ -30,7 +30,7 @@ lis.forEach((li) => {
 let landing = document.querySelector(".landing");
 let prev = document.getElementById("lef")
 let next = document.getElementById("rig")
-let bullets = document.querySelectorAll(".bullets li")
+let bullets = document.querySelectorAll(".landing .bullets li")
 
 let counter = 2;
 
