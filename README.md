@@ -10,7 +10,7 @@
 | #005 | [Template Five](https://tahataha579.github.io/Templates/Template%20Five/Template_Five.html)  |
 | #006 | [Template Six](https://tahataha579.github.io/Templates/Template%20Six/Template_Six.html)  |
 | #007 | [Template Seven](https://tahataha579.github.io/Templates/Template%20Seven/Template_Seven.html)  |
-| #008 | [Template Eight](https://tahataha579.github.io/Templates/Template%20Eight/Template_Eight.html)  |
+| #008 | [Template Eight](https://tahataha579.github.io/Templates/Template_Eight/Template_Eight.html)  |
 | #009 | [Template Nine](https://tahataha579.github.io/Templates/Template%20Nine/Template_Nine.html)  |
 | #010 | [Template Ten](https://tahataha579.github.io/Templates/Template%20Ten/Template_Ten.html)  |
 | #011 | [Template Eleven](https://tahataha579.github.io/Templates/Template%20Eleven/Template_Eleven.html)  |
