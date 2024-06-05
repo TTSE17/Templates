@@ -18,3 +18,4 @@
 | #013 | [Template Thirteen](https://tahataha579.github.io/Templates/Template%20Thirteen/Template_Thirteen.html)  |
 | #014 | [Template Fourteen](https://tahataha579.github.io/Templates/Template%20Fourteen/Template_Fourteen.html)  |
 | #015 | [Template Fifteen](https://tahataha579.github.io/Templates/Template%20Fifteen/Template_Fifteen.html)  |
+| #016 | [Template Sixteen](https://tahataha579.github.io/Templates/Template%20Sixteen/Template_Sixteen.html)  |
