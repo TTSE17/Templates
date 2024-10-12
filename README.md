@@ -4,7 +4,7 @@
 |  Id |  Name | 
 | :--: | :--: |
 | #000 | [Dash Board ](https://TTSE17.github.io/Templates/Dash%20Board/index.html)  |
-| #001 | [Template One](https://TTSE17.github.io/Templates/Template%20One/Tempale_One.html)  |
+| #001 | [Template One](https://TTSE17.github.io/Templates/Template%20One/Template_One.html)  |
 | #002 | [Template Two](https://TTSE17.github.io/Templates/Template%20Two/Template_Two.html) |
 | #003 | [Template Three](https://TTSE17.github.io/Templates/Template%20Three/Template_Three.html)  |
 | #004 | [Template Four](https://TTSE17.github.io/Templates/Template%20Four/Template_Four.html)  |
